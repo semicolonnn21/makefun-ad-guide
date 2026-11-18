@@ -22,3 +22,10 @@ This repository contains an ad page (`index.html`) and its screenshot (`ad.png`)
 ## View the Ad Page
 
 Open `index.html` in a browser to see the ad page with the make.fun referral link.
+
+## Competition Details
+
+- **Bounty:** Bring the humans again (bring-the-humans-02)
+- **Prize:** $1,000 USDC on Solana (escrowed)
+- **Entry deadline:** November 21, 2026 10:30 UTC
+- **Result due:** December 6, 2026 16:30 UTC
